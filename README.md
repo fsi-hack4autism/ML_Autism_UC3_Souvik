@@ -1,4 +1,4 @@
-<ul> Predict Autism Diagnoses effectivenss using Various Machine Learning Models </ul>
+Predict Autism Diagnoses effectivenss using Various Machine Learning Models
 
 Contributor: Souvik Mazumdar
 
@@ -98,4 +98,27 @@ Confusion Matrix
 
 Accuracy Matrix using Random Forest Algorithm
 
+What do these scores mean?
 
+We get the highest accuracy for Random Forest, with the score reaching 99%. This implies, our model predicted classified correctly 99% of the times. 
+The Precision score stood at 0.99, implying our model correctly classified observations with high importance 99% of the times. 
+The Recall stood at 0.99. We also have an F1 score of 0.99. 
+The F1 score is the harmonic mean of precision and recall. It assigns equal weight to both the metrics.
+However, for our analysis it is relatively more important for the model to have low false negative cases(Where the client is improving with the sessions).
+
+![image](https://user-images.githubusercontent.com/8531740/116730563-450df380-aa06-11eb-8167-d2f4fcb86524.png)
+
+Among our dependents which features are have the most importance
+
+<hr />
+
+Conclusion
+
+<hr />
+
+We thus select the Random Forest Classifier as the right model due to high accuracy, precision and recall score. 
+One reason why Random Forest Classifier showed an improved performance was because of the presence of outliers. 
+Random Forest is not a a distance based algorithm hence it is not much affected by outliers. 
+Whereas distance based algorithm such as Logistic Regression and Support Vector showed a lower performance. 
+Based on the feature importance, Author Changes is the most important factor which can determine a success trial. 
+Other factors also contributes to the prediction. As we can see, the results derived from Feature Importance makes sense as one of the first things that actually affects the outcomes.
