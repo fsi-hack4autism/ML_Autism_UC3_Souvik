@@ -4,13 +4,23 @@ Contributor: Souvik Mazumdar(Nasdaq)
 
 ![image](https://user-images.githubusercontent.com/8531740/116724901-d711fe00-a9fe-11eb-9f00-154c6591434b.png)
 
-<strong>Project Definition</strong>
+## Project Definition
 
-This use case will analyze anonymized therapy data from a repository of Applied Behavior Analysis sessions and cases to draw insights which can be used by individual families to help understand the effectiveness of their programs
+This use case will analyze anonymized therapy data from a repository of Applied Behavior Analysis sessions and cases to draw insights which can be used by families, doctors and researchers to help understand the effectiveness of their programs
 
 <hr/>
 
-<strong>Goals</strong>
+## Table of contents
+* [Goals](#goals)
+* [Project Analysis](#projectAnalysis)
+* [Tools](#tools)
+* [Exploratoty Data Analysis](#eda)
+* [Algorithm Analysis](#algorithmAnalysis)
+* [Conclusion](#conclusion)
+* [Future Scope](#futureScope)
+* [References](#references)
+
+## Goals
 
 1)	Is 80% as a set goal indicative of future successes? 
 a.	Are there data subsets that may use another target? 
@@ -32,7 +42,7 @@ f.	Is there significance between outcomes and higher numbers of Goals? Higher nu
 
 <hr/>
 
-<strong> Project Analysis </strong>
+## Project Analysis
 
 <hr/>
 
@@ -48,7 +58,7 @@ The data are processed in a standardized way using a Python script that prepares
 
 <hr />
 
-<strong>Tools, Technologies, and Libraries Learned</strong>
+## Tools
 
 <hr />
 
@@ -64,7 +74,7 @@ Machine learning: Azure ML Studio
 
 <hr />
 
-<strong> Exploratory Data Analysis </strong>
+## Exploratory Data Analysis
 
 <hr />
 
@@ -82,7 +92,11 @@ Session Count Intensity Curve
 
 Correlation Matrix for all dependent variables
 
-<strong> Algorithms Analysis </strong>
+<hr />
+
+## Algorithms Analysis 
+
+<hr />
 
 ![image](https://user-images.githubusercontent.com/8531740/116728922-27d82580-aa04-11eb-80d4-a9320cc567b6.png)
 
@@ -112,7 +126,7 @@ Among our dependents which features are have the most importance
 
 <hr />
 
-Conclusion
+## Conclusion
 
 <hr />
 
@@ -125,7 +139,7 @@ Other factors also contributes to the prediction. As we can see, the results der
 
 <hr />
 
-Future Scope
+## Future Scope
 
 <hr />
 
@@ -135,7 +149,7 @@ More variables to be considered for evaluation success.
 
 <hr />
 
-References
+## References
 
 <hr />
 
