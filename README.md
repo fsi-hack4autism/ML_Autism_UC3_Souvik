@@ -1,6 +1,6 @@
 Predict Autism Diagnoses effectivenss using Various Machine Learning Models
 
-Contributor: Souvik Mazumdar
+Contributor: Souvik Mazumdar(Nasdaq)
 
 ![image](https://user-images.githubusercontent.com/8531740/116724901-d711fe00-a9fe-11eb-9f00-154c6591434b.png)
 
@@ -122,3 +122,17 @@ Random Forest is not a a distance based algorithm hence it is not much affected 
 Whereas distance based algorithm such as Logistic Regression and Support Vector showed a lower performance. 
 Based on the feature importance, Author Changes is the most important factor which can determine a success trial. 
 Other factors also contributes to the prediction. As we can see, the results derived from Feature Importance makes sense as one of the first things that actually affects the outcomes.
+
+<hr />
+
+References
+
+<hr />
+
+Creating ReadMe files : https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project
+
+Implementing Algortihms: https://www.analyseup.com/learn-python-for-data-science/python-random-forest-feature-importance-plot.html#:~:text=Tree%20based%20machine%20learning%20algorithms,trying%20to%20predict%20the%20target.
+
+Autism Study : https://www.kaggle.com/faizunnabi/autism-screening-classification
+
+Special Thanks to all the Event Organizers of the Hackathon https://fsi-hack4autism.github.io/#about
