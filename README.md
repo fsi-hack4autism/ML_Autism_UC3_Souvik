@@ -52,7 +52,7 @@ The data are processed in a standardized way using a Python script that prepares
 
 <hr />
 
-Jupyter Noteboo: Write code in a virtual environment
+Jupyter Notebook: Write code in a virtual environment
 
 Python libraries</bold>: numpy, pandas, seaborn, plotly, sklearn (dimensionality reduction, test-train split, gridsearch, cross-validation methods, evaluate performance)
 
@@ -60,7 +60,7 @@ Git: Track file changes
 
 GitHub: Organize team workflow and project
 
-Machine learning: Apply ML concepts
+Machine learning: Azure ML Studio
 
 <hr />
 
@@ -122,6 +122,16 @@ Random Forest is not a a distance based algorithm hence it is not much affected 
 Whereas distance based algorithm such as Logistic Regression and Support Vector showed a lower performance. 
 Based on the feature importance, Author Changes is the most important factor which can determine a success trial. 
 Other factors also contributes to the prediction. As we can see, the results derived from Feature Importance makes sense as one of the first things that actually affects the outcomes.
+
+<hr />
+
+Future Scope
+
+<hr />
+
+Analyzing the Goals by clustering them and assigning the most suited goal for each individual.
+
+More variables to be considered for evaluation success.
 
 <hr />
 
