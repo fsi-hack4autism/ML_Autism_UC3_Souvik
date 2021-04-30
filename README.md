@@ -14,6 +14,7 @@ This use case will analyze anonymized therapy data from a repository of Applied 
 * [Goals](#goals)
 * [Project Analysis](#projectAnalysis)
 * [Tools](#tools)
+* [Setup](#setup)
 * [Exploratoty Data Analysis](#eda)
 * [Algorithm Analysis](#algorithmAnalysis)
 * [Conclusion](#conclusion)
@@ -71,6 +72,15 @@ Git: Track file changes
 GitHub: Organize team workflow and project
 
 Machine learning: Azure ML Studio
+
+<hr />
+
+## Setup
+
+<hr />
+
+1. clone the repo using git clone https://github.com/fsi-hack4autism/ML_Autism_UC3_Souvik.git
+2. open the file autism_hack.ipynb in any python notebook and your ready to go
 
 <hr />
 
