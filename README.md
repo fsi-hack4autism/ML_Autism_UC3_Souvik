@@ -97,6 +97,10 @@ This show the current goal status of the clients
 ![image](https://user-images.githubusercontent.com/8531740/116728670-d334aa80-aa03-11eb-8f46-ae1c1b3e452f.png)
  
 Session Count Intensity Curve
+
+![image](https://user-images.githubusercontent.com/8531740/116750761-92975a00-aa20-11eb-8393-fa55ecca3fb1.png)
+
+We can analyse that with more sessions success rate is high. So more sessions should be organised per day/month/year. Highest Concentration of successes is in the initials sessions. So if regular sessions are kept in the initial days, the success rate will be higher. 
  
 ![image](https://user-images.githubusercontent.com/8531740/116728788-f95a4a80-aa03-11eb-8f49-be86a6657cf2.png)
 
