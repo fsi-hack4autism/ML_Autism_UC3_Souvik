@@ -4,13 +4,24 @@ Contributor: Souvik Mazumdar(Nasdaq)
 
 ![image](https://user-images.githubusercontent.com/8531740/116724901-d711fe00-a9fe-11eb-9f00-154c6591434b.png)
 
-<strong>Project Definition</strong>
+## Project Definition
 
-This use case will analyze anonymized therapy data from a repository of Applied Behavior Analysis sessions and cases to draw insights which can be used by individual families to help understand the effectiveness of their programs
+This use case will analyze anonymized therapy data from a repository of Applied Behavior Analysis sessions and cases to draw insights which can be used by families, doctors and researchers to help understand the effectiveness of their programs
 
 <hr/>
 
-<strong>Goals</strong>
+## Table of contents
+* [Goals](#goals)
+* [Project Analysis](#projectAnalysis)
+* [Tools](#tools)
+* [Setup](#setup)
+* [Exploratoty Data Analysis](#eda)
+* [Algorithm Analysis](#algorithmAnalysis)
+* [Conclusion](#conclusion)
+* [Future Scope](#futureScope)
+* [References](#references)
+
+## Goals
 
 1)	Is 80% as a set goal indicative of future successes? 
 a.	Are there data subsets that may use another target? 
@@ -32,7 +43,7 @@ f.	Is there significance between outcomes and higher numbers of Goals? Higher nu
 
 <hr/>
 
-<strong> Project Analysis </strong>
+## Project Analysis
 
 <hr/>
 
@@ -48,11 +59,11 @@ The data are processed in a standardized way using a Python script that prepares
 
 <hr />
 
-<strong>Tools, Technologies, and Libraries Learned</strong>
+## Tools
 
 <hr />
 
-Jupyter Noteboo: Write code in a virtual environment
+Jupyter Notebook: Write code in a virtual environment
 
 Python libraries</bold>: numpy, pandas, seaborn, plotly, sklearn (dimensionality reduction, test-train split, gridsearch, cross-validation methods, evaluate performance)
 
@@ -60,11 +71,20 @@ Git: Track file changes
 
 GitHub: Organize team workflow and project
 
-Machine learning: Apply ML concepts
+Machine learning: Azure ML Studio
 
 <hr />
 
-<strong> Exploratory Data Analysis </strong>
+## Setup
+
+<hr />
+
+1. clone the repo using git clone https://github.com/fsi-hack4autism/ML_Autism_UC3_Souvik.git
+2. open the file autism_hack.ipynb in any python notebook and your ready to go
+
+<hr />
+
+## Exploratory Data Analysis
 
 <hr />
 
@@ -77,12 +97,20 @@ This show the current goal status of the clients
 ![image](https://user-images.githubusercontent.com/8531740/116728670-d334aa80-aa03-11eb-8f46-ae1c1b3e452f.png)
  
 Session Count Intensity Curve
+
+![image](https://user-images.githubusercontent.com/8531740/116750761-92975a00-aa20-11eb-8393-fa55ecca3fb1.png)
+
+We can analyse that with more sessions success rate is high. So more sessions should be organised per day/month/year. Highest Concentration of successes is in the initials sessions. So if regular sessions are kept in the initial days, the success rate will be higher. 
  
 ![image](https://user-images.githubusercontent.com/8531740/116728788-f95a4a80-aa03-11eb-8f49-be86a6657cf2.png)
 
 Correlation Matrix for all dependent variables
 
-<strong> Algorithms Analysis </strong>
+<hr />
+
+## Algorithms Analysis 
+
+<hr />
 
 ![image](https://user-images.githubusercontent.com/8531740/116728922-27d82580-aa04-11eb-80d4-a9320cc567b6.png)
 
@@ -112,7 +140,7 @@ Among our dependents which features are have the most importance
 
 <hr />
 
-Conclusion
+## Conclusion
 
 <hr />
 
@@ -125,7 +153,17 @@ Other factors also contributes to the prediction. As we can see, the results der
 
 <hr />
 
-References
+## Future Scope
+
+<hr />
+
+Analyzing the Goals by clustering them and assigning the most suited goal for each individual.
+
+More variables to be considered for evaluation success.
+
+<hr />
+
+## References
 
 <hr />
 
