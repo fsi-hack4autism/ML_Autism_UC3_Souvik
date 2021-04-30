@@ -126,6 +126,11 @@ Confusion Matrix
 
 Accuracy Matrix using Random Forest Algorithm
 
+ROC Curve to validate data which gives a 97.6% accuracy
+
+![image](https://user-images.githubusercontent.com/8531740/116755501-23bdff00-aa28-11eb-8606-3b4fd0b161f2.png)
+
+
 What do these scores mean?
 
 We get the highest accuracy for Random Forest, with the score reaching 99%. This implies, our model predicted classified correctly 99% of the times. 
